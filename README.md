@@ -16,3 +16,4 @@
 <li>M&eacute;dia de Pets por cliente</li>
 <li>Preview de &aacute;rea para potencial abertura de loja f&iacute;sica.</li>
 </ul>
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiMGVlNThkMDQtYmUzNi00YTZjLWFiZmMtZjMyNjRkNDc3OWNmIiwidCI6ImFjNGQwYzNlLWJhYTAtNGZhYS05OTc0LTM4NjQwNmE4YzAzOSJ9" target="_blank">Link para Dashbord</a></p>
